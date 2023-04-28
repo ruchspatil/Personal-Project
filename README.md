@@ -29,4 +29,4 @@ Support Vector Machine (SVM) and Decision Tree.
 <p><b>- Consumer disputed?</b></p>
 <p><b>- Complaint ID</b></p>
 
-#### Model Accuracy: 80%
+#### Model Accuracy: 81%
